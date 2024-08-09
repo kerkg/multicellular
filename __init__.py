@@ -1,1 +1,2 @@
-raise NotImplementedError("ıll get to this in a minute")
+from colorama import init
+init()

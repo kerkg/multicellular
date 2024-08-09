@@ -1,0 +1,9 @@
+{"process_settings":{"process_threshold": 2},
+"visuals":{
+        "pws_types" : {
+                "process_information": ["CYAN", "MAGENTA", "BRIGHT"],
+                "error": ["WHITE", "RED", "BRIGHT"],
+                "fatal_error": ["RED", "BLACK", "BRIGHT"]
+            }
+        }
+}
